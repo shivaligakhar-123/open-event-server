@@ -131,7 +131,7 @@ class DevelopmentConfig(Config):
 
 class TestingConfig(Config):
     """
-    The configuration for a test suit
+    The configuration for a testing purpose
     """
 
     ENV = 'testing'
